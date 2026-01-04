@@ -1,5 +1,7 @@
 # Termi-Task
 
+Project Link: [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+
 A simple, dependency-free command line task manager built with Python.
 
 ## Features
